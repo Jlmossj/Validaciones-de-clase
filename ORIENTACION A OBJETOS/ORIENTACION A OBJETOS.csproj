@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>ORIENTACION_A_OBJETOS</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\jlmol\Downloads\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\jlmol\Downloads\pr.cs" Link="pr.cs" />
+  </ItemGroup>
+
+</Project>
